@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
 
-<!--
-**krishnachaitanyaguvvala/krishnachaitanyaguvvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Full Stack Developer | Frontend Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 🌱 Currently improving my Full Stack Development skills
+* 💻 Passionate about Web Development and Programming
+* 🔍 Exploring Open Source and Modern Web Technologies
+* 🎯 Goal: Build scalable and user-friendly applications
+
+---
+
+## 🛠️ Skills
+
+### Languages
+
+* Python
+* Java
+
+### Web Technologies
+
+* HTML5
+* CSS3
+
+### Tools
+
+* Git
+* GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnachaitanyaguvvala\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaitanyaguvvala\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/krishnachaitanyaguvvala/
+
+---
+
+⭐ Always learning, building, and improving.
