@@ -51,10 +51,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaitanyaguvvala&layout=compact&theme=tokyonight)
 ---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishnachaitanyaguvvala\&theme=tokyonight\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🤝 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/krishnachaitanyaguvvala/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Chaitanya-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/krishnachaitanyaguvvala/)
 
 ---
 
