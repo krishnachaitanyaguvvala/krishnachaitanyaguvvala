@@ -58,8 +58,6 @@
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/krishnachaitanyaguvvala/
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Chaitanya-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/krishnachaitanyaguvvala/)
 
 ---
